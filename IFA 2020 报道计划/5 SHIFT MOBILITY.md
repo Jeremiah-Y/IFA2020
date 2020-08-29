@@ -16,7 +16,7 @@ IFA NEXT is the global innovation hub that provides a platform for dynamic and f
 
 ###### _“我的硕士项目EIT Digital的培养目标之一便是培养通晓商业的技术人才，为欧洲的数字化转型提供新颖技术与商业共同促进的动力。我很期待并会着重关注欧洲最新的研究转化成果，与新颖的初创企业展示。”_
 
-##### [IFA NEXT 现场素材](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/IFA%20NEXT%20%E7%8E%B0%E5%9C%BA%E7%B4%A0%E6%9D%90.md)
+#### [IFA NEXT 现场素材](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/IFA%20NEXT%20%E7%8E%B0%E5%9C%BA%E7%B4%A0%E6%9D%90.md)
 
 ---
 ### [Shift Mobility](https://shift-mobility-ifa.com/)官网
@@ -25,7 +25,7 @@ A festival of global insights and ideas that explores how future mobility will c
 
 ###### _"未来出行也是我个人一直关注的话题。我热爱汽车与出行生活，并且曾经在主机厂设计部工作过两年，参与过多款量产、概念车的设计，积累了很多经验与思考。我个人很期待能够在这场展会中看到主机厂与初创企业带来的不同视角的新思考。"_
 
-##### [Shift Mobility现场素材](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/Shift%20Mobility%E7%8E%B0%E5%9C%BA%E7%B4%A0%E6%9D%90.md)
+#### [Shift Mobility 现场素材](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/Shift%20Mobility%E7%8E%B0%E5%9C%BA%E7%B4%A0%E6%9D%90.md)
 
 
 
