@@ -6,10 +6,11 @@
       {
         "id": "0e3ecce183164d7b",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0 IFA2020 报道计划.md",
+            "file": "Brands/Honor.md",
             "mode": "source"
           }
         },
@@ -18,11 +19,10 @@
       {
         "id": "9968e3ca9873ae25",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0 IFA2020 报道计划.md",
+            "file": "Brands/Honor.md",
             "mode": "preview"
           }
         },
@@ -118,10 +118,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "0 IFA2020 报道计划.md",
-    "4 IFA 2020 品牌列表.md",
-    "Brands/Realme.md",
-    "3 IFA 2020 日程表.md",
-    "Brands/Neato Robotics.md"
+    "Brands/Honor.md",
+    "Brands/Lenevo.md",
+    "Brands/Motorola.md",
+    "Brands/MSI.md",
+    "Brands/Nokia.md"
   ]
 }
