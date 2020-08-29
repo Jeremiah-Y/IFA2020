@@ -4,10 +4,5 @@ A 3-day event where companies present their innovative products, concepts and so
 
 展商列表请点[这里](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/list%20of%20exhibitors/List-of-Exhibitors-SHIFT-MOBILITY.pdf)
 
-
-<object data="https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/list%20of%20exhibitors/List-of-Exhibitors-SHIFT-MOBILITY.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/list%20of%20exhibitors/List-of-Exhibitors-SHIFT-MOBILITY.pdf" >
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/list%20of%20exhibitors/List-of-Exhibitors-SHIFT-MOBILITY.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
+<embed src="https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/list%20of%20exhibitors/List-of-Exhibitors-SHIFT-MOBILITY.pdf" width="700" height="375" 
+ type="application/pdf">
