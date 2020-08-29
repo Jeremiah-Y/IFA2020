@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0 IFA2020 报道计划.md",
+            "file": "1 家电网往年报道.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0 IFA2020 报道计划.md",
+            "file": "1 家电网往年报道.md",
             "mode": "preview"
           }
         },
@@ -118,10 +118,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "1 家电网往年报道.md",
     "0 IFA2020 报道计划.md",
     "3 IFA 2020 日程表.md",
     "2 家电网今年报道重点.md",
-    "Brands/Garmin.md",
-    "4 IFA 2020 品牌列表.md"
+    "Brands/Garmin.md"
   ]
 }
