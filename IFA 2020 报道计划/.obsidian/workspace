@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "80459fd9cc545ee1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e3ecce183164d7b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "4 IFA 2020 品牌列表.md",
+            "mode": "source"
+          }
+        },
+        "group": "307a41ca51f0a778"
+      },
+      {
+        "id": "9968e3ca9873ae25",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "4 IFA 2020 品牌列表.md",
+            "mode": "preview"
+          }
+        },
+        "group": "307a41ca51f0a778"
+      },
+      {
+        "id": "079ea96f20b4d668",
+        "type": "split",
+        "children": [
+          {
+            "id": "491cf3f441c0f1fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 IFA 2020 日程表.md",
+                "mode": "source"
+              }
+            },
+            "group": "a355db5612669b11"
+          },
+          {
+            "id": "ef54b4ce18268dc1",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 IFA 2020 日程表.md",
+                "mode": "preview"
+              }
+            },
+            "group": "a355db5612669b11"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "202e09a0a22aff60",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0c4cee81526ce9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cc01c5d84ad6c15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dfe4a7301e60fa19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0bce879e28b91b36",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cfca5ae944b6557",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "047a87ad160ebb64",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "3 IFA 2020 日程表.md",
+    "0 IFA2020 报道计划.md",
+    "4 IFA 2020 品牌列表.md",
+    "TCL.md",
+    "Realme.md"
+  ]
+}
