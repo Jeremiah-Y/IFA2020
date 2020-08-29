@@ -8,4 +8,4 @@ A 3-day event where companies present their innovative products, concepts and so
  type="application/pdf">
  
  <embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://drive.google.com/file/d/19YbzZ4iwUvI9xZyhIOOwAS23xAogUw03/view?usp=sharing" width="500" height="375">
+viewer?embedded=true&url=https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/list%20of%20exhibitors/List-of-Exhibitors-SHIFT-MOBILITY.pdf" width="500" height="375">
