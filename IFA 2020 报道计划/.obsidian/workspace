@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4 IFA 2020 品牌列表.md",
+            "file": "0 IFA2020 报道计划.md",
             "mode": "source"
           }
         },
@@ -18,10 +18,11 @@
       {
         "id": "9968e3ca9873ae25",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4 IFA 2020 品牌列表.md",
+            "file": "0 IFA2020 报道计划.md",
             "mode": "preview"
           }
         },
@@ -34,10 +35,11 @@
           {
             "id": "491cf3f441c0f1fe",
             "type": "leaf",
+            "dimension": 49.93997599039616,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 IFA 2020 日程表.md",
+                "file": "4 IFA 2020 品牌列表.md",
                 "mode": "source"
               }
             },
@@ -46,11 +48,11 @@
           {
             "id": "ef54b4ce18268dc1",
             "type": "leaf",
-            "active": true,
+            "dimension": 50.06002400960384,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 IFA 2020 日程表.md",
+                "file": "4 IFA 2020 品牌列表.md",
                 "mode": "preview"
               }
             },
@@ -116,10 +118,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "3 IFA 2020 日程表.md",
     "0 IFA2020 报道计划.md",
     "4 IFA 2020 品牌列表.md",
-    "TCL.md",
-    "Realme.md"
+    "Brands/Realme.md",
+    "3 IFA 2020 日程表.md",
+    "Brands/Neato Robotics.md"
   ]
 }
