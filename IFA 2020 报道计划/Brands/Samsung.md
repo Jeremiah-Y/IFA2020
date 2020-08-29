@@ -4,3 +4,7 @@
 _10:00 CEST, 2 September 2020_
 
 Samsung has cancelled its IFA appearance and is instead hosting its own event called Life Unstoppable. We're expecting to see the latest updates on TV and connected appliances. There might also be some announcements around availability of the new Galaxy Z Fold 2.
+
+
+---
+  [三星将不参加IFA 2020展会 或改为线上直播](http://news.cheaa.com/2020/0702/576678.shtml)
