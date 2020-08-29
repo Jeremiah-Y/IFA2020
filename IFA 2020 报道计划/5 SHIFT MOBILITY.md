@@ -2,6 +2,8 @@ _[<返回](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A
 
 [![IFA NEXT](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/IFA_NEXT_XSTabletUpright2019.png)](https://b2b.ifa-berlin.com/IFA/IFANEXT/) [![SHIFT](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/shift_mobility_XSTabletUpright2019.png)](https://b2b.ifa-berlin.com/IFA/ConventionsConferences/Shiftautomotive/)
 
+###  **SHIFT MOBILITY meets IFA NEXT**
+
 _A 3-day event where companies present their innovative products, concepts and solutions, network with experts and create global awareness for their brands. The new B2B showcase for 1,000 selected buyers and trade visitors per day is the destination for industry professionals and for C-level executives, investors, entrepreneurs and journalists looking for inspiration and seeking cutting edge technology trends.这是一个持续三天的活动，各公司可以展示创新产品、概念与解决方案，同专家沟通并在全球范围内扩大他们的品牌影响。这场为每天1000名经过筛选的采购商、贸易商举行的展会必将成为业内人士，以及企业C级主管、投资人、企业家以及记者们寻求灵感及前沿科技趋势的目的地。_
 
 展商列表请点[这里](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/list%20of%20exhibitors/List-of-Exhibitors-SHIFT-MOBILITY.pdf)
