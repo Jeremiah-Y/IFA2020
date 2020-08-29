@@ -10,19 +10,23 @@ A 3-day event where companies present their innovative products, concepts and so
 
 ---
 ### [IFA NEXT](https://b2b.ifa-berlin.com/IFA/IFANEXT/) 官网
-[IFA NEXT 现场素材](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/IFA%20NEXT%20%E7%8E%B0%E5%9C%BA%E7%B4%A0%E6%9D%90.md)
+
 
 IFA NEXT is the global innovation hub that provides a platform for dynamic and forward-thinking businesses, global innovation leaders, start-ups and research institutions to showcase and share innovative technologies. IFA NEXT是一个全球创新中心，它给前卫的企业、国际创新领导者、初创公司与研究机构提供展示与纷纷向创新技术的平台。
 
-###### 我的硕士项目EIT Digital的培养目标之一便是培养通晓商业的技术人才，为欧洲的数字化转型提供新颖技术与商业共同促进的动力。我很期待并会着重关注欧洲最新的研究转化成果，与新颖的初创企业展示。
+###### _“我的硕士项目EIT Digital的培养目标之一便是培养通晓商业的技术人才，为欧洲的数字化转型提供新颖技术与商业共同促进的动力。我很期待并会着重关注欧洲最新的研究转化成果，与新颖的初创企业展示。”_
+
+##### [IFA NEXT 现场素材](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/IFA%20NEXT%20%E7%8E%B0%E5%9C%BA%E7%B4%A0%E6%9D%90.md)
 
 ---
 ### [Shift Mobility](https://shift-mobility-ifa.com/)官网
-[Shift Mobility现场素材](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/Shift%20Mobility%E7%8E%B0%E5%9C%BA%E7%B4%A0%E6%9D%90.md)
 
 A festival of global insights and ideas that explores how future mobility will change the way we think, live and move. 一场全球视野与新想法的盛宴，探索未来出行将如何影响我们的思想、生活与移动。
 
-###### 未来出行也是我个人一直关注的话题。我热爱汽车与出行生活，并且曾经在主机厂设计部工作过两年，参与过多款量产、概念车的设计，积累了很多经验与思考。我个人很期待能够在这场展会中看到主机厂与初创企业带来的不同视角的新思考。
+###### _"未来出行也是我个人一直关注的话题。我热爱汽车与出行生活，并且曾经在主机厂设计部工作过两年，参与过多款量产、概念车的设计，积累了很多经验与思考。我个人很期待能够在这场展会中看到主机厂与初创企业带来的不同视角的新思考。"_
+
+##### [Shift Mobility现场素材](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/Shift%20Mobility%E7%8E%B0%E5%9C%BA%E7%B4%A0%E6%9D%90.md)
+
 
 
 
