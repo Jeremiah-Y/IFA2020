@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "6 其他媒体报道.md",
+            "file": "IFA2020 报道计划.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "6 其他媒体报道.md",
+            "file": "IFA2020 报道计划.md",
             "mode": "preview"
           }
         },
@@ -74,7 +74,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "IFA2020 报道计划.md"
+              }
             }
           }
         ]
@@ -85,8 +87,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "6 其他媒体报道.md",
     "IFA2020 报道计划.md",
+    "6 其他媒体报道.md",
     "Shift Mobility现场素材.md",
     "5 SHIFT MOBILITY.md",
     "其他媒体报道.md"
