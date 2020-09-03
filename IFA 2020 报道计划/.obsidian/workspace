@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9.3笔记.md",
+            "file": "7 IFA 看展日程规划.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9.3笔记.md",
+            "file": "7 IFA 看展日程规划.md",
             "mode": "preview"
           }
         },
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.3笔记.md"
+                "file": "7 IFA 看展日程规划.md"
               }
             }
           }
@@ -87,10 +87,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "7 IFA 看展日程规划.md",
     "9.3笔记.md",
     "Brands/LG.md",
     "img/by brands/LG/LG_cover.png",
-    "Brands/Huawei.md",
-    "IFA2020 报道计划.md"
+    "Brands/Huawei.md"
   ]
 }
