@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Brands/Siemens.md",
+            "file": "7 IFA 看展日程规划.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Brands/Siemens.md",
+            "file": "7 IFA 看展日程规划.md",
             "mode": "preview"
           }
         },
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brands/Siemens.md"
+                "file": "7 IFA 看展日程规划.md"
               }
             }
           }
@@ -87,10 +87,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "7 IFA 看展日程规划.md",
     "Brands/Siemens.md",
     "Brands/Samsung.md",
     "Siemens.md",
-    "4 IFA 2020 品牌列表.md",
-    "6 其他媒体报道.md"
+    "4 IFA 2020 品牌列表.md"
   ]
 }
