@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9.3笔记.md",
+            "file": "IFA2020 报道计划.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9.3笔记.md",
+            "file": "IFA2020 报道计划.md",
             "mode": "preview"
           }
         },
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.3笔记.md"
+                "file": "IFA2020 报道计划.md"
               }
             }
           }
@@ -87,10 +87,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "9.3笔记.md",
+    "IFA2020 报道计划.md",
     "7 IFA 看展日程规划.md",
-    "Brands/Siemens.md",
-    "Brands/Samsung.md",
-    "Siemens.md"
+    "Shift Mobility现场素材.md",
+    "IFA NEXT 现场素材.md",
+    "9.3笔记.md"
   ]
 }
