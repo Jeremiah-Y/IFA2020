@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Brands/LG.md",
+            "file": "9.3笔记.md",
             "mode": "source"
           }
         },
@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Brands/LG.md",
-            "mode": "source"
+            "file": "9.3笔记.md",
+            "mode": "preview"
           }
         },
         "group": "307a41ca51f0a778"
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brands/LG.md"
+                "file": "9.3笔记.md"
               }
             }
           }
@@ -87,9 +87,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "9.3笔记.md",
     "Brands/LG.md",
     "img/by brands/LG/LG_cover.png",
-    "9.3笔记.md",
     "Brands/Huawei.md",
     "IFA2020 报道计划.md"
   ]
