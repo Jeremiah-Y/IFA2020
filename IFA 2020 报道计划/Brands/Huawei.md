@@ -3,7 +3,7 @@
 
 
 
-[[huawei_virtual space.png]()](https://consumer.huawei.com/en/campaign/together-2020/1-8-n/?utm_campaign=ifa&utm_medium=ownmedia&utm_source=ifa-virtual-space)
+[![huawei_virtual space.png](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/by%20brands/Huawei/huawei_virtual%20space.png)](https://consumer.huawei.com/en/campaign/together-2020/1-8-n/?utm_campaign=ifa&utm_medium=ownmedia&utm_source=ifa-virtual-space)
 
 [华为虚拟展台](https://consumer.huawei.com/en/campaign/together-2020/1-8-n/?utm_campaign=ifa&utm_medium=ownmedia&utm_source=ifa-virtual-space)
 
