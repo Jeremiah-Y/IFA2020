@@ -3,6 +3,9 @@
 IFA NEXT 现场素材
 ---
 
+ [IFA NEXT花絮视频]() 
+
+---
 
 ### The little cat 猫跑步机
 ![B612 1 .jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.4/B612%E7%8C%AB%E8%B7%91%E6%AD%A5%E6%9C%BA/B612%201%20.jpg)
