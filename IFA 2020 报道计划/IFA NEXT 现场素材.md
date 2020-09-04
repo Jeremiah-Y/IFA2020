@@ -13,7 +13,7 @@ IFA NEXT 现场素材
 
 The little cat 跑步机是一个来自韩国的猫咪专用瘦身跑步机。由于猫天生有追逐亮斑的天性，于是B612 Cat Planet的设计团队在跑步机的滚轮当中加入了一条LED灯带，铲屎官们可以通过手机APP来控制亮斑的颜色与位置，让猫咪在滚轮中尽情追逐，从而达到奔跑、瘦身的目标。在手机APP中，铲屎官们还可以查看猫咪的跑步距离，以及计算猫咪的BMI指数，来检查猫咪是否处于健康状态。跑步机自身没有电机，但需要电源来点亮LED，以及记录跑步距离。设计团队还贴心的选用了静音橡胶滑轮以及在底座下加入毛毯，让猫咪在跑步机上运动时，几乎不会产生震动与噪音，不用担心打扰到邻居。
 
-[The little cat 猫跑步机现场演示](链接:https://pan.baidu.com/s/1n1I1LWOlQrTyKbCg-No74A)   
+[The little cat 猫跑步机现场演示](https://pan.baidu.com/s/1n1I1LWOlQrTyKbCg-No74A)   
 提取码:mzw1
 
 [B612 Cat Planet官网](https://www.thelittlecat.kr)
