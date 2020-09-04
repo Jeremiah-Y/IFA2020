@@ -81,7 +81,7 @@ Myhixel是一家专门关注男性性爱健康的科技公司，其产品旨在�
 ![strig 1.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.4/strig/strig%201.jpg)
 
 ![strig 2.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.4/strig/strig%202.jpg)
-Strig是来自韩国的按摩器，有如中国的刮痧石，Strig按摩器设计有一个圆滑且扁平的金属边缘，辅以微电流与震动，在抹过润滑膏后，用户可以使用金属边缘按压与往复刮身体部位。精心设计的三种不同弧度的边缘，适用于各种不同的身体部位。
+Strig是来自韩国的按摩器，有如中国传统的刮痧石，Strig按摩器设计有一个圆滑且扁平的金属边缘，辅以微电流与震动，在抹过润滑膏后，用户可以使用金属边缘按压与往复刮身体部位。精心设计的三种不同弧度的边缘，适用于各种不同的身体部位。
 
 [Strig官网](https://www.getstrig.com)
 
