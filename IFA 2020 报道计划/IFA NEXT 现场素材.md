@@ -3,7 +3,7 @@
 IFA NEXT 现场素材
 ---
 
- [IFA NEXT花絮视频]() 
+ [IFA NEXT环望视频](https://pan.baidu.com/s/1Fqyz73fY1PvoQLqCZWrj1g)   密码:2le8
 
 ---
 
@@ -32,7 +32,7 @@ The little cat 跑步机是一个来自韩国的猫咪专用瘦身跑步机。�
 
 **makaka**ontherun 是一家德国初创公司，产品主要关注NFC屏蔽、手机与汽车钥匙信号屏蔽与保护领域。他们的明星产品是一张NFC屏蔽卡片，用户将这张卡片放入钱包，即可形成厚度约九公分的保护层，在有人试图通过靠近盗刷银行卡信息时，可以通过叠加形成干扰信号，有效的屏蔽盗刷。**makaka**ontherun同时还提供电磁屏蔽保护套，在用户不希望被打扰或追踪时，屏蔽手机信号；或者如果用户有无钥匙进入功能的汽车钥匙，由于汽车钥匙会发出射频信号，该保护套可以有效的屏蔽信号，防止该信号被复制并被利用来盗取汽车。**makaka**ontherun保护套的高端产品采用深色皮革，与保时捷等豪华品牌共用同一家皮革供应商。目前，他们的卡片与保护套已经在德国的各大商超与线上商城有售。
 
-[**makaka**ontherun 现场演示]()
+[**makaka**ontherun 现场演示](https://pan.baidu.com/s/1FrxRXhL8U3SIq1nEsDYhPQ)  密码:ztxg
 
 [**makaka**ontherun官网](https://www.MakakaOnTheRun.com)
 
