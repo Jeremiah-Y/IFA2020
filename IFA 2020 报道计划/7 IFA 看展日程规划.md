@@ -11,7 +11,7 @@ _[<返回首页](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20
 
 --- 
 ### 2020.09.04 星期五
-**全天** 先参观Shift Mobility & IFA NEXT，如果结束的早会去新闻发布会
+**全天** 参观Shift Mobility & IFA NEXT
 
 
 ---
