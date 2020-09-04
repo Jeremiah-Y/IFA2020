@@ -45,7 +45,7 @@ The little cat 跑步机是一个来自韩国的猫咪专用瘦身跑步机。�
 
 ULTRAWAVE是属于韩国BNSoft公司旗下的一个硬件创业品牌，主要产品为使用紫外LED（UV-C LED）的洁具消毒机，可以给牙刷（个人或一家人）、剃须刀以及口罩进行杀菌消毒。个人使用的牙刷消毒机（Cube Toothbrush Sterilizer）体积十分小巧，每次工作三分钟，以每天使用三次计，充电后续航在一个月左右；可供全家四口人使用的牙刷消毒机（Home Toothbrush Sterilizer）续航在三个月左右。口罩消毒机（Mask Sterilizer）则为全球首创，每次使用分为10分钟的紫外消杀与10分钟的烘干。
 
-[ULTRAWAVE官网](https://www.ultrawave.co.kr)
+[ULTRAWAVE官网](http://www.ultrawave.co.kr)
 
 ---
 ### 标题
