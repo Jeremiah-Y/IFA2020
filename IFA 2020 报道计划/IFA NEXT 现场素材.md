@@ -68,7 +68,7 @@ Mysteryvibe是一家关注性爱健康的科技公司，提供兼顾乐趣与治
 
 ![Myhixel 2.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.4/myhixel/Myhixel%202.jpg)
 
-Myhixel是一家专门关注男性性爱健康的科技公司，其产品旨在帮助男性战胜如早泄等困扰。用户首先通过手机APP观看指导，再结合震动杯，用户将学会如何控制特定部位的肌肉以达到期望的高潮。
+Myhixel是一家专门关注男性性爱健康的科技公司，其产品旨在帮助男性战胜如早泄等困扰。用户首先通过手机APP观看指导，再结合震动杯，用户将学会如何控制特定部位的肌肉以达到期望的高潮。据创始人称，他们的用户普遍实现了七倍的时间延长。
 
 [Myhixel现场讲解](https://pan.baidu.com/s/1On5PBMJSwNbtoLwSNaXJSQ)   密码:el1p
 （如有需要，我可以在后期加上翻译字幕）
