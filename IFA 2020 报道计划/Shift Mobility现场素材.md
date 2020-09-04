@@ -7,7 +7,7 @@ Shift Mobility现场素材
 ---
 
 ### Spree
-
+![]()
 Spree是一家德国的互动娱乐公司，主要产品为玩家提供在真实空间中的VR互动，比如VR碰碰车、VR卡丁车。用户带上VR头显，即刻进入一个虚拟世界，与同场的真实玩家在虚拟世界中互动。目前在慕尼黑Forum Schwanthalerhöhe商城已经搭建完成一个VR碰碰车馆，并且该公司正在寻求全球市场的拓展。
 
 [Spree现场讲解](https://pan.baidu.com/s/17tn_mRpt1Et0kE40srlqdw)  密码:na84
