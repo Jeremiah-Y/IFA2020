@@ -2,7 +2,7 @@
 
 Shift Mobility现场素材
 ---
-[Shift Mobility环望视频]() 
+[Shift Mobility环望视频](https://pan.baidu.com/s/1dOuvF_HQYBuyB8mKyYRXjg)   密码:2fol
 
 ---
 
