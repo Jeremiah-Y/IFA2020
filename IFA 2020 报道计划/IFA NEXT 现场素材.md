@@ -18,6 +18,7 @@ The little cat 跑步机是一个来自韩国的猫咪专用瘦身跑步机。�
 
 [The little cat 猫跑步机现场演示](https://pan.baidu.com/s/1n1I1LWOlQrTyKbCg-No74A)   
 提取码:mzw1
+（如有需要，我可以在后期加上翻译字幕）
 
 [B612 Cat Planet官网](https://www.thelittlecat.kr)
 
@@ -33,6 +34,7 @@ The little cat 跑步机是一个来自韩国的猫咪专用瘦身跑步机。�
 **makaka**ontherun 是一家德国初创公司，产品主要关注NFC屏蔽、手机与汽车钥匙信号屏蔽与保护领域。他们的明星产品是一张NFC屏蔽卡片，用户将这张卡片放入钱包，即可形成厚度约九公分的保护层，在有人试图通过靠近盗刷银行卡信息时，可以通过叠加形成干扰信号，有效的屏蔽盗刷。**makaka**ontherun同时还提供电磁屏蔽保护套，在用户不希望被打扰或追踪时，屏蔽手机信号；或者如果用户有无钥匙进入功能的汽车钥匙，由于汽车钥匙会发出射频信号，该保护套可以有效的屏蔽信号，防止该信号被复制并被利用来盗取汽车。**makaka**ontherun保护套的高端产品采用深色皮革，与保时捷等豪华品牌共用同一家皮革供应商。目前，他们的卡片与保护套已经在德国的各大商超与线上商城有售。
 
 [**makaka**ontherun 现场演示](https://pan.baidu.com/s/1FrxRXhL8U3SIq1nEsDYhPQ)  密码:ztxg
+（如有需要，我可以在后期加上翻译字幕）
 
 [**makaka**ontherun官网](https://www.MakakaOnTheRun.com)
 
@@ -54,7 +56,8 @@ ULTRAWAVE是属于韩国BNSoft公司旗下的一个硬件创业品牌，主要�
 ![Mysteryvibe 2.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.4/mysteryvibe/Mysteryvibe%202.jpg)
 Mysteryvibe是一家关注性爱健康的科技公司，提供兼顾乐趣与治疗的产品与服务。产品主要包括各类震动棒/器，其中以Crescendo可弯折震动棒与Tenuto男用震动器最为独创。同时，Mysteryvibe网站还提供在线指南，帮助解答两性关系中的困扰。
 
-[Mysteryvibe现场讲解]()
+[Mysteryvibe现场讲解](https://pan.baidu.com/s/11VXDHEEdQmb2KhH_40OToA)  密码:eqmq
+（如有需要，我可以在后期加上翻译字幕）
 
 [Mysteryvibe官网](https://www.Mysteryvibe.com)
 
@@ -65,9 +68,10 @@ Mysteryvibe是一家关注性爱健康的科技公司，提供兼顾乐趣与治
 
 ![Myhixel 2.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.4/myhixel/Myhixel%202.jpg)
 
-Myhixel是一家专门关注男性性爱健康的科技公司，其产品旨在帮助男性战胜如早泄等困扰。用户首先通过手机APP观看指导，再结合震动杯，用户将学会如何控制肌肉以达到期望的高潮。
+Myhixel是一家专门关注男性性爱健康的科技公司，其产品旨在帮助男性战胜如早泄等困扰。用户首先通过手机APP观看指导，再结合震动杯，用户将学会如何控制特定部位的肌肉以达到期望的高潮。
 
 [Myhixel现场讲解](https://pan.baidu.com/s/1On5PBMJSwNbtoLwSNaXJSQ)   密码:el1p
+（如有需要，我可以在后期加上翻译字幕）
 
 [Myhixel官网](https://www.Myhixel.com)
 
