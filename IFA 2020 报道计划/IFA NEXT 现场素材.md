@@ -100,8 +100,10 @@ Feelbelt是一家娱乐外设初创公司，唯一的一款产品是震动腰带
 
 ---
 ### Augmented Robotics
-【图片】
+![Augmented robotics.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.4/augmented%20robotics/Augmented%20robotics.jpg)
+
 正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文
+
 [Augmented Robotics现场演示](https://pan.baidu.com/s/1nJWv1_BYFFw-6QRdH7JHqw)  密码:97bw
 
 ---
