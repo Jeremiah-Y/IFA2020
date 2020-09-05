@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IFA NEXT 现场素材.md",
+            "file": "Brands/Huawei.md",
             "mode": "source"
           }
         },
@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IFA NEXT 现场素材.md",
-            "mode": "preview"
+            "file": "Brands/Huawei.md",
+            "mode": "source"
           }
         },
         "group": "307a41ca51f0a778"
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IFA NEXT 现场素材.md"
+                "file": "Brands/Huawei.md"
               }
             }
           }
@@ -87,10 +87,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "IFA NEXT 现场素材.md",
-    "Shift Mobility现场素材.md",
+    "Brands/Huawei.md",
+    "Brands/Honor.md",
+    "img/honor.jpg",
     "IFA2020 报道计划.md",
-    "5 SHIFT MOBILITY.md",
-    "9.3笔记.md"
+    "4 IFA 2020 品牌列表.md"
   ]
 }
