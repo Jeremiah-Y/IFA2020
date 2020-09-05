@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Brands/Huawei.md",
+            "file": "IFA2020 报道计划.md",
             "mode": "source"
           }
         },
@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Brands/Huawei.md",
-            "mode": "source"
+            "file": "IFA2020 报道计划.md",
+            "mode": "preview"
           }
         },
         "group": "307a41ca51f0a778"
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brands/Huawei.md"
+                "file": "IFA2020 报道计划.md"
               }
             }
           }
@@ -87,10 +87,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "IFA2020 报道计划.md",
+    "tp-link.md",
     "Brands/Huawei.md",
     "Brands/Honor.md",
-    "img/honor.jpg",
-    "IFA2020 报道计划.md",
-    "4 IFA 2020 品牌列表.md"
+    "img/honor.jpg"
   ]
 }
