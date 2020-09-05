@@ -20,9 +20,11 @@ _[<返回首页](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20
 
 [Huawei Share 的生态演示补充镜头2：支持Huwai Share的照片打印机](https://pan.baidu.com/s/1npBEJ22QBc990zO-qeZ5Uw)  密码:vrrc
 
-###### _演示视频里主要有1+8+n的介绍，那款未发布的智能电视的演示，以及手机和matebook之间互联。_
+###### _演示视频里主要有1+8+N的介绍，那款未发布的智能电视的演示，以及手机和matebook之间互联。_
 
-所谓1+8+n概念，是指以手机为核心，可以连接到更多的智能硬件上，首先是8个华为品牌内的硬件，有手表、笔记本、平板、智能音响、路由器，以及尚处于概念机状态的华为HiCar系统和一款智能电视。
+**Huawei Share 生态体系**
+
+所谓1+8+N概念，是指以手机为核心，可以连接到更多的智能硬件上，首先是8个华为品牌内的硬件，有手表、笔记本、平板、智能音响、路由器，以及尚处于概念机状态的华为HiCar系统和一款智能电视。而N则是指除上述八个设备之外的所有可能性。在展台上，华为展示了一个照片打印机，支持Huawei Share功能，方便用户将照片以无线的方式快速传输，进行打印。
 
 ![huawei 智能电视.png](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/huawei%20%E6%99%BA%E8%83%BD%E7%94%B5%E8%A7%86.png)
 
@@ -32,9 +34,16 @@ _[<返回首页](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20
 
 在Huawei Share 的手机与笔记本的互联演示中，我们看到，P40 Pro首先与通过NFC与电脑建立互联，之后通过Huwai Share可以进行无线投屏，在笔记本上投射出完整的手机屏幕。因为MateBook X同时也是触屏，用户便可以在电脑上控制手机，甚至可以利用手机作为外接摄像头，并且在电脑上操作。据悉，Huawei Share使用的是蓝牙与Wifi双信道，继而能够达到低延时与高清的无线传输。同时在交互上，手机在电脑上投射的界面也可被视为一个一般的程序界面，用户可以通过拖拽，轻松地将文件从手机导入电脑，或者从电脑导入手机。
 
+---
+**Huawei MateBook X Pro**
+
 ![huawei matebook X pro 1.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/huawei%20matebook%20X%20pro%201.jpg)
 ![huawei matebook X pro 2.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/huawei%20matebook%20X%20pro%202.jpg)
 ![huawei matebook X pro 3.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/huawei%20matebook%20X%20pro%203.jpg) 
+
+---
+
+**P40系列**
 
 [P40系列现场介绍视频](https://pan.baidu.com/s/1NHw_B9tJlTsMvCAdQNCD7g)   密码:yg3a
 
@@ -51,6 +60,18 @@ P40系列共有P40 Pro+, P40 Pro, P40 Lite 5G 与P40 Lite四个品系。其中P4
 ![P40 pro+ 3.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/P40%20pro%2B%203.jpg)
 ![P40 pro+ 4.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/P40%20pro%2B%204.jpg)
 ![P40 pro+ 5.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/P40%20pro%2B%205.jpg)
+
+---
+**Huawei 声音体验**
+
+![huawei 声音体验墙.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/huawei%20%E5%A3%B0%E9%9F%B3%E4%BD%93%E9%AA%8C%E5%A2%99.jpg)
+
+---
+
+**Huawei 运动健康**
+
+![huawei 运动健康墙.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/huawei%20%E5%A3%B0%E9%9F%B3%E4%BD%93%E9%AA%8C%E5%A2%99.jpg)
+
 
 
 ---
