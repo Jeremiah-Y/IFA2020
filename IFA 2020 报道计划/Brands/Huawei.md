@@ -27,6 +27,8 @@ _[<返回首页](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20
 
 这款智能电视目前还没有发布（有待考证），可以看到在电视顶部有一个摄像头，以及多个其他传感器，能够捕捉用户在电视机前的动作，诸如手势控制。由于现场网络不畅，很遗憾没能体验到全身捕捉的互动。
 
+![huawei share 手机电脑2.png]()
+
 ---
 [![huawei_virtual space.png](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/by%20brands/Huawei/huawei_virtual%20space.png)](https://consumer.huawei.com/en/campaign/together-2020/1-8-n/?utm_campaign=ifa&utm_medium=ownmedia&utm_source=ifa-virtual-space)
 
