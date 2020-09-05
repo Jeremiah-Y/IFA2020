@@ -4,7 +4,7 @@ _[<返回首页](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20
 
 今年荣耀一共带来三款新品：两款智能手表 HONOR Watch GS Pro 和HONOR Watch ES，与一款笔记本电脑MagicBook Pro。 
 
-
+###### _为我介绍的是荣耀在欧洲的产品经理，他告诉我说，由于事先没有和他沟通，所有只能口头和我描述产品。如果需要更多的宣传资料，可以向[PR经理]()索取。_
  
  ---
  **MagicBook Pro**
@@ -29,6 +29,14 @@ _[<返回首页](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20
  
   [HONOR Watch GS Pro特写3](https://pan.baidu.com/s/1605eYEZgTcKzbCVKlo99uA)   密码:xbdo
  
+ ---
+ 
+  **HONOR Watch ES**
+ 
+  ![honor watch ES 1.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/honor%20pic%20/honor%20watch%20ES%201.jpg)
+  ![honor watch ES 2.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/honor%20pic%20/honor%20watch%20ES%202.jpg)
+  
+  [HONOR Watch ES介绍视频](https://pan.baidu.com/s/1wa82aF2M9g2Fv3lXmp65dw)  密码:s5vs
  
  ---
  _发布会时间：11:25 CEST, **4 September** 2020_
