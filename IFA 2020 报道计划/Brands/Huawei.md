@@ -5,8 +5,9 @@ _[<返回首页](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20
 
 ![huawei 展馆.png](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/huawei%20%E5%B1%95%E9%A6%86.png)
 
+###### _展台负责人接受了我前前后后半个小时左右的采访，他说我是幸运的，因为今年媒体少了很多，并且我是在最后一天才来，所以他才能有这么多时间给我作单独的讲解。往年他的时间被排的非常满，每家媒体可能只能分到极短的采访机会，而今年他可以以更轻松的、自然交流般的口吻，向我娓娓道来。_
 
-今年的IFA由于疫情原因严重缩水，只有在半个展厅内，尚有部分品牌坚持搭建了展馆，其中就有华为。华为展台无论在体量还是位置上，在展馆中可以说占据了绝对的C位。当然我也注意到，展厅内最大的三个展台中的另外两个也是来自中国的企业，分别是涂鸦IoT和TP-Link。近些年，尤其随着中美关系的僵化，中国企业在欧洲扎根发展的决心和成长还是有目共睹的。
+今年的IFA由于疫情原因严重缩水，只有在半个展厅内尚有部分品牌坚持搭建了展馆，其中就有华为。华为展台无论在体量还是位置上，在展馆中可以说占据了绝对的C位。当然我也注意到，展厅内最大的三个展台中的另外两个也是来自中国的企业，分别是涂鸦IoT和TP-Link。近些年，尤其随着中美关系的僵化，中国企业在欧洲扎根发展的决心和成长还是有目共睹的。
 
 
 华为这次着重展示了Huawei Share 的生态体系，以及P40系列手机、Matebook、运动手表系列和耳机音响。
@@ -36,9 +37,14 @@ _[<返回首页](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20
 ![huawei matebook X pro 3.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/huawei%20matebook%20X%20pro%203.jpg) 
 
 [P40系列现场介绍视频](https://pan.baidu.com/s/1NHw_B9tJlTsMvCAdQNCD7g)   密码:yg3a
+
 [P40系列全览](https://pan.baidu.com/s/1omiFfVVWPq1bx7GNjyB40Q)   密码:tnf4
+
 [P40系列+手表全览 1](https://pan.baidu.com/s/1b4JqLrZzQ7lRUymFZ1amFQ)   密码:7r3k
+
 [P40系列+手表全览 2](https://pan.baidu.com/s/1ymBie-GhggRWV7_yFYOmnQ) 密码:fe6y
+
+P40系列共有P40 Pro+, P40 Pro, P40 Lite 5G 与P40 Lite四个品系。其中P40 Pro+有着惊人的100倍光学+电子变焦。在交互上，相机还在左上角加入了一个缩放视框，以便用户在使用超长焦时，还能够看到取景框周边的事物，不至于迷失拍摄目标的方位。P40 Lite 5G版则是为不需要专业相机、但仍对5G有诉求的用户而设计的型号，在满足用户追求性价比的同时，保留对5G的兼容。
 
 ![P40 pro+ 1.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/P40%20pro%2B%201.jpg)
 ![P40 pro+ 2.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/P40%20pro%2B%202.jpg)
