@@ -27,7 +27,8 @@ _[<返回首页](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20
 
 这款智能电视目前还没有发布（有待考证），可以看到在电视顶部有一个摄像头，以及多个其他传感器，能够捕捉用户在电视机前的动作，诸如手势控制。由于现场网络不畅，很遗憾没能体验到全身捕捉的互动。
 
-![huawei share 手机电脑2.png]()
+![huawei share 手机电脑2.png](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/huawei%20share%20%E6%89%8B%E6%9C%BA%E7%94%B5%E8%84%912.png)
+在Huawei Share 的手机与笔记本的互联演示中，我们看到，P40 Pro首先与通过NFC与电脑建立联系，之后可以通过Huwai Share进行无线互联投屏，在笔记本上投射出完整的手机屏幕。因为MateBook X同时也是触屏，用户便可以在电脑上控制手机。
 
 ---
 [![huawei_virtual space.png](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/by%20brands/Huawei/huawei_virtual%20space.png)](https://consumer.huawei.com/en/campaign/together-2020/1-8-n/?utm_campaign=ifa&utm_medium=ownmedia&utm_source=ifa-virtual-space)
