@@ -14,13 +14,17 @@ _[<返回首页](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20
 ![huawei 生态 1+8+n 墙 .jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/huawei%20%E7%94%9F%E6%80%81%201%2B8%2Bn%20%E5%A2%99%20.jpg) 
 
 [Huawei Share 的生态演示](https://pan.baidu.com/s/1fLXTCGEqzoYmOKJsXzWNlg)   密码:wryo 
-###### _演示视频里主要有1+8+n的介绍，那款未发布的智能电视的演示，以及手机和matebook之间互联。_
 
 [Huawei Share 的生态演示补充镜头1 ：1+8+n](https://pan.baidu.com/s/1kxPFR0l0HqyRVPdjKRYPVA)   密码:cr5x
 
 [Huawei Share 的生态演示补充镜头2：支持Huwai Share的照片打印机](https://pan.baidu.com/s/1npBEJ22QBc990zO-qeZ5Uw)  密码:vrrc
 
-所谓的1+8+n概念，是指以手机为核心，可以连接到更多的智能硬件上，首先是8个华为品牌内的硬件，有手表、笔记本、平板、智能音响、路由器，以及尚处于概念机状态的华为HiCar系统和一款智能电视。
+###### _演示视频里主要有1+8+n的介绍，那款未发布的智能电视的演示，以及手机和matebook之间互联。_
+
+所谓1+8+n概念，是指以手机为核心，可以连接到更多的智能硬件上，首先是8个华为品牌内的硬件，有手表、笔记本、平板、智能音响、路由器，以及尚处于概念机状态的华为HiCar系统和一款智能电视。
+
+![huawei 智能电视.png]()
+这款智能电视目前还没有发布（有待考证），可以看到在电视顶部有
 
 ---
 [![huawei_virtual space.png](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/by%20brands/Huawei/huawei_virtual%20space.png)](https://consumer.huawei.com/en/campaign/together-2020/1-8-n/?utm_campaign=ifa&utm_medium=ownmedia&utm_source=ifa-virtual-space)
