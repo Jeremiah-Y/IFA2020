@@ -60,7 +60,10 @@ _[<返回首页](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20
 
 [P40系列+手表全览 2](https://pan.baidu.com/s/1ymBie-GhggRWV7_yFYOmnQ) 密码:fe6y
 
-P40系列共有P40 Pro+, P40 Pro, P40 Lite 5G 与P40 Lite四个品系。其中P40 Pro+有着惊人的100倍光学+电子变焦。在交互上，相机还在左上角加入了一个缩放视框，以便用户在使用超长焦时，还能够看到取景框周边的事物，不至于迷失拍摄目标的方位。P40 Lite 5G版则是为不需要专业相机、但仍对5G有诉求的用户而设计的型号，在满足用户追求性价比的同时，保留对5G的兼容。
+
+![P40 pro+ 6.png](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/P40%20pro%2B%206.png)
+P40系列共有P40 Pro+, P40 Pro, P40 Lite 5G 与P40 Lite四个品系。其中P40 Pro+有着惊人的100倍光学+电子变焦。在交互上，相机在左上角加入了一个缩放视框，以便用户在使用超长焦时，还能够看到取景框周边的事物，不至于迷失拍摄目标的方位。P40 Lite 5G版则是为不需要专业相机、但仍对5G有诉求的用户而设计的型号，在满足用户追求性价比的同时，保留对5G的兼容。
+
 
 ![P40 pro+ 1.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/P40%20pro%2B%201.jpg)
 ![P40 pro+ 2.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/P40%20pro%2B%202.jpg)
