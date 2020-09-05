@@ -80,6 +80,8 @@ P40系列共有P40 Pro+, P40 Pro, P40 Lite 5G 与P40 Lite四个品系。其中P4
 
 [声音体验墙全览2](https://pan.baidu.com/s/1-49LTLPaeuf8Hbvw3XFCdw)  密码:8qjl
 
+[Gentle Monster智能眼镜](https://pan.baidu.com/s/1GRT2BZRGVOWwnyMy0SWYeA)  密码:nb2d
+
 ---
 
 **Huawei 运动健康**
