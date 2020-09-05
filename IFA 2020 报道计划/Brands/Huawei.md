@@ -4,6 +4,8 @@ _[<返回首页](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20
 
 
 ![huawei 展馆.png](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/huawei%20%E5%B1%95%E9%A6%86.png)
+[展馆主视角1](https://pan.baidu.com/s/1tz22wQifJn1yWnvkCTX48A)  密码:9nqq
+[展馆主视角2](https://pan.baidu.com/s/1v34XER9mlSLZfmidTIlRzQ)  密码:db4s
 
 ###### _展台负责人接受了我前前后后半个小时左右的采访，他说我是幸运的，因为今年媒体少了很多，并且我是在最后一天才来，所以他才能有这么多时间给我作单独的讲解。往年他的时间被排的非常满，每家媒体可能只能分到极短的采访机会，而今年他可以以更轻松的、自然交流般的口吻，向我娓娓道来。_
 
@@ -39,6 +41,8 @@ _[<返回首页](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20
 
 ---
 **Huawei MateBook X Pro**
+
+[MateBook X Pro全览](https://pan.baidu.com/s/1kcyKn8XVJE83gDKnxcfhgA)   密码:z7k3
 
 ![huawei matebook X pro 1.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/huawei%20matebook%20X%20pro%201.jpg)
 ![huawei matebook X pro 2.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/huawei%20matebook%20X%20pro%202.jpg)
