@@ -9,9 +9,18 @@
 
 
 
-_14:00 CEST, 3 September 2020_
+_发布会时间：14:00 CEST, 3 September 2020_
 
 Huawei is still producing plenty of products, but we're not expecting any major phone launches in line with IFA 2020. Instead we expect that the company will be pushing updates to the MateBook X. The company recently updated the models at an event in China and we might see those getting a global announcement in line with IFA 2020. We're expecting a tease of the Mate 40 and perhaps the Huawei Mate 2 folding phone. Previously we've seen Huawei announce it's latest Kirin platform at IFA.
+
+![huawei 展馆.png](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/huawei%20%E5%B1%95%E9%A6%86.png)
+
+
+今年的IFA由于疫情原因严重缩水，只有在半个展厅内，尚有部分品牌坚持搭建了展馆，其中就有华为。华为展台无论在体量还是位置上，在展馆中可以说占据了绝对的C位。当然我也注意到，展厅内最大的三个展台中的另外两个也是来自中国的企业，分别是涂鸦IoT和TP-Link。近些年，尤其随着中美关系的僵化，中国企业在欧洲扎根发展的决心和势力的成长还是有目共睹的。
+
+
+
+
 
 1+8+n
 huawei share
