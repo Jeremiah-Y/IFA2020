@@ -87,13 +87,22 @@ Strig是来自韩国的按摩器，有如中国传统的刮痧石，Strig按摩�
 
 ---
 ### Feelbelt
+![feelbelt 1.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.4/feelbelt/feelbelt%201.jpg)
 
-正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文
+![feelbelt 2.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.4/feelbelt/feelbelt%202.jpg)
+
+![feelbelt 3.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.4/feelbelt/feelbelt%203.jpg)
+
+Feelbelt是一家娱乐外设初创公司，唯一的一款产品是震动腰带。腰带上有十个震动发生点，可将特定的音频转化为震动传递给用户，比如赛车游戏中引擎的震动，以及路面的震动反馈。同时，他们还在和其他公司合作，研究如何将使用场景拓展至更多应用，比如，让听歌更加动感，或者让失去听力的人能够同样感受到音乐的震撼。至于为什么选择将震动器布置在腹部，创始人解释说，想象一下我们在进入泳池时，拾级而下，腿浸在水中时并没有过多感觉，但当腰部浸入水中时，大部分人会不由自主地打寒颤，因为腰部的神经相对更加敏感，并会传至全身。同时，相比于其他附着于椅子、墙面上的低频振动发生器，Feelbelt几乎不会产生声音，不容易让身边人注意到，更不会打扰邻居。
+
+
+[Feelbelt现场演示]()
 
 ---
 ### Augmented Robotics
 【图片】
 正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文
+[Augmented Robotics现场演示](https://pan.baidu.com/s/1nJWv1_BYFFw-6QRdH7JHqw)  密码:97bw
 
 ---
 ### 
