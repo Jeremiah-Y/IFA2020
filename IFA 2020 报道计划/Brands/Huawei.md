@@ -83,10 +83,7 @@ P40系列共有P40 Pro+, P40 Pro, P40 Lite 5G 与P40 Lite四个品系。其中P4
 [华为虚拟展台](https://consumer.huawei.com/en/campaign/together-2020/1-8-n/?utm_campaign=ifa&utm_medium=ownmedia&utm_source=ifa-virtual-space)
 
 
-
 _发布会时间：14:00 CEST, 3 September 2020_
-
-Huawei is still producing plenty of products, but we're not expecting any major phone launches in line with IFA 2020. Instead we expect that the company will be pushing updates to the MateBook X. The company recently updated the models at an event in China and we might see those getting a global announcement in line with IFA 2020. We're expecting a tease of the Mate 40 and perhaps the Huawei Mate 2 folding phone. Previously we've seen Huawei announce it's latest Kirin platform at IFA.
 
 ---
 
