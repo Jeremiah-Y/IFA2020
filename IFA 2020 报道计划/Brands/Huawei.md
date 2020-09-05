@@ -12,8 +12,11 @@ _[<返回首页](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20
 华为这次着重展示了Huawei Share 的生态体系，以及P40系列手机、Matebook、运动手表系列和耳机音响。
 
 ![huawei 生态 1+8+n 墙 .jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/huawei%20%E7%94%9F%E6%80%81%201%2B8%2Bn%20%E5%A2%99%20.jpg)
-[Huawei Share 的生态演示]()
+
+[Huawei Share 的生态演示](https://pan.baidu.com/s/1fLXTCGEqzoYmOKJsXzWNlg)   密码:wryo
+
 [Huawei Share 的生态演示补充镜头1 ：1+8+n](https://pan.baidu.com/s/1kxPFR0l0HqyRVPdjKRYPVA)   密码:cr5x
+
 [Huawei Share 的生态演示补充镜头2：支持Huwai Share的照片打印机](https://pan.baidu.com/s/1npBEJ22QBc990zO-qeZ5Uw)  密码:vrrc
 
 
