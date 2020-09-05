@@ -73,7 +73,7 @@ P40系列共有P40 Pro+, P40 Pro, P40 Lite 5G 与P40 Lite四个品系。其中P4
 
 **Huawei 运动健康**
 
-![huawei 运动健康墙.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/huawei%20%E5%A3%B0%E9%9F%B3%E4%BD%93%E9%AA%8C%E5%A2%99.jpg)
+![huawei 运动健康墙.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/huawei%20%E8%BF%90%E5%8A%A8%E5%81%A5%E5%BA%B7%E5%A2%99.jpg)
 
 
 
