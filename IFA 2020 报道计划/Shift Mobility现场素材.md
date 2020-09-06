@@ -26,8 +26,12 @@ Spree是一家德国的互动娱乐公司，主要产品为玩家提供在真实
 ----
 
 ### Goodpatch
-【图片】
-正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文
+![goodpatch.png](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.4/Mobility/goodpatch.png)
+
+Goodpatch是一家为自动驾驶汽车设计提供虚拟内饰设计环境的公司。他们目前用UNITY与Invision搭建了demo，用户在VR世界的自动驾驶车内可以随意增减车内的物件，与车内娱乐系统屏内的内容进行互动，同时车外的环境也可以自定义。VR头显外贴有Leap Motion，可以捕捉用户的手部动作，已记录用户取放物件、点击屏幕以及在三维空间中“画画”。
+
+[Goodpatch现场演示视频]()
+
 
 ---
 ### GOBE Robots
@@ -56,12 +60,23 @@ OKAI是一家来自中国杭州的电动自行车整车供应商，目前为如B
 ![citkar.png](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.4/Mobility/citkar.png)
 这是一家生产城市电助力快递车的公司，主要面向小商业主与快递车队在城市内的短距离配送。驾驶者可以以轿车的坐姿，手持方向盘，踩踏脚蹬，在自行车道上骑行。每辆车最高可额外负载二百公斤的货物。
 
+
+---
+### Hyundai NEXO
+![nexo 1.png](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.4/Mobility/nexo%201.png)
+![nexo 2.png](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.4/Mobility/nexo%202.png)
+现代带来了一辆NEXO燃料电车汽车。在欧洲售价9万欧元，续航在600公里左右。在柏林已经有了五个加氢站，而在德国全境，有84个，所以至少在德国境内不用担心。加满氢气（一共三个储氢罐）大概在50欧元左右，这个价格与柴油价格相当。
+
+[现代NEXO现场演示视频]()
+
+
+---
+
+### chocolate3 3D巧克力打印
+
+
+
 ---
 ### Sigo
 ![sigo.png](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.4/Mobility/sigo.png)
 一款货运助力自行车。
-
----
-### Hyundai NEXO
-
-现代带来了一辆NEXO燃料电车汽车。在欧洲售价9万欧元，续航在600公里左右。在柏林已经有了五个加氢站，而在德国全境，有84个，所以至少在德国境内不用担心。加满氢气（一共三个储氢罐）大概在50欧元左右，这个价格与柴油价格相当。
