@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Brands/ataraina.md",
+            "file": "Brands/BleuJour.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Brands/ataraina.md",
+            "file": "Brands/BleuJour.md",
             "mode": "preview"
           }
         },
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brands/ataraina.md"
+                "file": "Brands/BleuJour.md"
               }
             }
           }
@@ -87,9 +87,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Brands/BleuJour.md",
     "Brands/ataraina.md",
     "IFA2020 报道计划.md",
-    "Brands/BleuJour.md",
     "Brands/Beurer.md",
     "Brands/Huawei.md"
   ]
