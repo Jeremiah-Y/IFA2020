@@ -58,6 +58,8 @@ HONOR Watch ES也是此次发布的新款运动型手表。其产品理念是潮
 [HONOR Watch ES 特写4](https://pan.baidu.com/s/1yPcUixxs_6T3CMXX4Carvg)  密码:iovy
 
 ---
+###### _展台上的其他产品_
+
 **HONOR 30 Pro+**
 
 ![honor30 Pro + 1.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/honor%20pic%20/honor30%20Pro%20%2B%201.jpg)
