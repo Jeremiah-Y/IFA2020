@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Brands/tp-link.md",
+            "file": "Brands/ataraina.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Brands/tp-link.md",
+            "file": "Brands/ataraina.md",
             "mode": "preview"
           }
         },
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brands/tp-link.md"
+                "file": "Brands/ataraina.md"
               }
             }
           }
@@ -87,10 +87,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Brands/tp-link.md",
+    "Brands/ataraina.md",
+    "Brands/BleuJour.md",
+    "Brands/Beurer.md",
     "Brands/Huawei.md",
-    "IFA2020 报道计划.md",
-    "IFA NEXT 现场素材.md",
-    "6 其他媒体报道.md"
+    "IFA NEXT 现场素材.md"
   ]
 }
