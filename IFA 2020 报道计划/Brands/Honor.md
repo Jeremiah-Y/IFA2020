@@ -12,7 +12,9 @@ _[<返回首页](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20
  ![honor magicbook pro 1.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/honor%20pic%20/honor%20magicbook%20pro%201.jpg)
  ![honor magicbook pro 2.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/honor%20pic%20/honor%20magicbook%20pro%202.jpg)
  
-![]()
+![honor magicbook pro 3.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/honor%20pic%20/honor%20magicbook%20pro%203.png)
+
+![honor magicbook pro 4.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/honor%20pic%20/honor%20magicbook%20pro%204.png)
   
   此次发布的MagicBook Pro为上一代的升级，配备有16.1寸屏幕，采用最新的7nm AMD 4600系列芯片，在内存、屏幕上均有升级，也沿用了荣耀一贯以来的三窄边框设计。还有一个创新设计亮点是Pop-up Camera。在位于最上方一排按键的中间，有一个专门的摄像头按键，按下去即可弹出隐藏的前置摄像头。这样的设计有两方面优势，一是可以非常有效的保护用户的隐私不被偷拍，二是为屏幕让出了空间，保证了更大的屏占比。
   
@@ -24,6 +26,8 @@ _[<返回首页](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20
  ![honor watch GS Pro 1.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/honor%20pic%20/honor%20watch%20GS%20Pro%201.jpg)
  ![honor watch GS Pro 2.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/honor%20pic%20/honor%20watch%20GS%20Pro%202.jpg)
  ![honor watch GS Pro 3.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/honor%20pic%20/honor%20watch%20GS%20Pro%203.jpg)
+ 
+ HONOR Watch GS Pro是面向更加专业的户外运动爱好者所设计的新一代智能手表。其电池续航升级到了25天，这是目前业内同级别甚至更高级别手表中非常领先的水平，更好的保障了在户外运动中的长时间的数据监测，以及安全导航回家。 HONOR Watch GS Pro的质量通过了14项军规标准，在非常严苛的户外极限运动环境下依然可以稳定运行，为户外运动多添一层保障。目前 HONOR Watch GS Pro支持超过一百种的户外模式，选择十分丰富，喜欢户外的消费者一定不要错过。
  
  [HONOR Watch GS Pro介绍视频](https://pan.baidu.com/s/1Z7b-OJLqFwY8Fl45sAbzIg)   密码:4xg3
  
