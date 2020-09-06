@@ -8,11 +8,11 @@ _[<返回首页](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20
  
  ---
  **MagicBook Pro**
- [MagicBook Pro介绍视频](https://pan.baidu.com/s/15d2q-k0-F7IL5HI7Eg9rVw)   密码:3gvf
-
  
  ![honor magicbook pro 1.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/honor%20pic%20/honor%20magicbook%20pro%201.jpg)
  ![honor magicbook pro 2.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/honor%20pic%20/honor%20magicbook%20pro%202.jpg)
+ 
+  [MagicBook Pro介绍视频](https://pan.baidu.com/s/15d2q-k0-F7IL5HI7Eg9rVw)   密码:3gvf
  
  ---
  **HONOR Watch GS Pro**
@@ -40,8 +40,11 @@ _[<返回首页](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20
   
   
 [HONOR Watch ES 特写1](https://pan.baidu.com/s/1u6oywW9akjMt_vVfoIXrgQ)  密码:1pe6
+
 [HONOR Watch ES 特写2](https://pan.baidu.com/s/122q3ZcxqAUuxO6BTtzkwlg)   密码:7wcs
+
 [HONOR Watch ES 特写3](https://pan.baidu.com/s/1OT_SBQ51D77xdmRyqei4wg)   密码:ogc6
+
 [HONOR Watch ES 特写4](https://pan.baidu.com/s/1yPcUixxs_6T3CMXX4Carvg)  密码:iovy
  
  ---
