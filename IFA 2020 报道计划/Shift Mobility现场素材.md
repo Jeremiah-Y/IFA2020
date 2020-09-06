@@ -73,6 +73,7 @@ OKAI是一家来自中国杭州的电动自行车整车供应商，目前为如B
 ---
 
 ### chocolate3 3D巧克力打印
+![chocolate 3.png](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.4/Mobility/chocolate%203.png)
 
 
 
