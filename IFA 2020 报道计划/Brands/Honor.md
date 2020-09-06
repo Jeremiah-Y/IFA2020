@@ -44,7 +44,7 @@ _[<返回首页](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20
 ![honor watch ES 1.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/honor%20pic%20/honor%20watch%20ES%201.jpg)
 ![honor watch ES 2.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/honor%20pic%20/honor%20watch%20ES%202.jpg)
   
-HONOR Watch ES也是此次发布的新款运动型手表。其产品理念是潮流与科技的结合。相较于很多专业运动手表的表盘大、电池续航长、功能多，很多城市中的运动爱好者并不需要这么极致的功能，因为荣耀品牌推出了HONOR Watch ES，这是一款潮流与运动功能相结合的智能手表，ES代表了Easy Sport 轻松运动。表盘是长方形的AMLED，尺寸适中，手表整体也很轻巧。HONOR Watch ES提供了95种运动模式，电池可以维持10天续航，这是在拥有全彩显示屏、运动功能、GPS等功能的同档位产品手表中非常出色的选择，并且价格也十分的非常亲民。此次为全球发布，而中国市场将会晚些上市。目前欧洲各市场将会陆续在九月启动预售，价格为99欧元。 
+HONOR Watch ES也是此次发布的新款运动型手表。其产品理念是潮流与科技的结合。相较于很多专业运动手表的表盘大、电池续航长、功能多，很多城市中的运动爱好者并不需要这么极致的功能，因此荣耀品牌推出了HONOR Watch ES，这是一款潮流与运动功能相结合的智能手表，ES代表了Easy Sport 轻松运动。表盘是长方形的AMLED，尺寸适中，手表整体也很轻巧。HONOR Watch ES提供了95种运动模式，电池可以维持10天续航，这是在拥有全彩显示屏、运动功能、GPS等功能的同档位产品手表中非常出色的选择，并且价格也十分的非常亲民。此次为全球发布，而中国市场将会晚些上市。目前欧洲各市场将会陆续在九月启动预售，价格为99欧元。 
   
 [HONOR Watch ES介绍视频](https://pan.baidu.com/s/1wa82aF2M9g2Fv3lXmp65dw)  密码:s5vs
   

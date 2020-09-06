@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Shift Mobility现场素材.md",
+            "file": "Brands/Honor.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Shift Mobility现场素材.md",
+            "file": "Brands/Honor.md",
             "mode": "preview"
           }
         },
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shift Mobility现场素材.md"
+                "file": "Brands/Honor.md"
               }
             }
           }
@@ -87,10 +87,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Brands/Honor.md",
     "Shift Mobility现场素材.md",
     "IFA2020 报道计划.md",
     "7 IFA 看展日程规划.md",
-    "5 SHIFT MOBILITY.md",
-    "4 IFA 2020 品牌列表.md"
+    "5 SHIFT MOBILITY.md"
   ]
 }
