@@ -4,10 +4,11 @@ Shift Mobility现场素材
 ---
 [Shift Mobility展馆视频](https://pan.baidu.com/s/1dOuvF_HQYBuyB8mKyYRXjg)   密码:2fol
 
-###### _包括展馆环望，以及车队游行视频。展馆内本来展位与观众就不多，每隔一段时间的车队游行，就像是一场强颜欢笑的自娱自乐，车灯闪烁，音乐回响在空洞的展厅里，无不透露着这一届IFA的怪异与无奈。_
+###### _包括展馆环望，以及车队游行视频。展馆内本来展位与观众就不多，每隔一段时间的车队游行，更像是一场强颜欢笑的自娱自乐。零零星星的观者，车灯闪烁，音乐回响在空洞的展厅里，无不透露着这一届IFA的怪异，以及背后的无奈。_
 
-
-
+![mobility展馆.png](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.4/Mobility/mobility%E5%B1%95%E9%A6%86.png)
+![mobility游行1.png](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.4/Mobility/mobility%E6%B8%B8%E8%A1%8C1.png)
+![mobility游行1.png](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.4/Mobility/mobility%E6%B8%B8%E8%A1%8C2.png)
 
 ---
 
@@ -46,5 +47,6 @@ OKAI是一家来自中国杭州的电动自行车整车供应商，目前为如B
 
 ---
 ### DREEME
-【图片】
-正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文
+![dreems.png]
+![[dreems 2.jpg]]
+这是一家专门生产电动踏板摩托车和电助力自行车的公司。电动踏板摩托车在欧洲尚没有像中国一样普及。但在德国，因为严格的立法，电动踏板摩托车是被是为与一般摩托车拥有同样路权的机动车辆，可以在主路上行驶，最高时速为45公里/小时，需要上牌上保险，驾驶人需要有小轿车驾驶证，但不需要摩托车驾驶证。相比之下，中国的摩托车与电瓶车路权在各地法规都不甚一致，甚至至今电瓶车是否属于机动车还存在很大的争议。
