@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IFA2020 报道计划.md",
+            "file": "Brands/tp-link.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IFA2020 报道计划.md",
+            "file": "Brands/tp-link.md",
             "mode": "preview"
           }
         },
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IFA2020 报道计划.md"
+                "file": "Brands/tp-link.md"
               }
             }
           }
@@ -87,10 +87,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "IFA2020 报道计划.md",
+    "Brands/tp-link.md",
     "Brands/Huawei.md",
-    "Shift Mobility现场素材.md",
-    "IFA NEXT 现场素材.md",
-    "Brands/BleuJour.md"
+    "Brands/Honor.md",
+    "Brands/Harman & JBL.md",
+    "Brands/Garmin.md"
   ]
 }
