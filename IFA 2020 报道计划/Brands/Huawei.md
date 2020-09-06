@@ -42,6 +42,8 @@ _[<返回首页](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20
 ---
 **Huawei MateBook X Pro**
 
+###### _Huawei MateBook X Pro没有进行单独介绍，在手机与电脑互联中有演示。_
+
 [MateBook X Pro全览](https://pan.baidu.com/s/1kcyKn8XVJE83gDKnxcfhgA)   密码:z7k3
 
 ![huawei matebook X pro 1.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/huawei%20matebook%20X%20pro%201.jpg)
@@ -62,7 +64,7 @@ _[<返回首页](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20
 
 
 ![P40 pro+ 6.png](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/P40%20pro%2B%206.png)
-P40系列共有P40 Pro+, P40 Pro, P40 Lite 5G 与P40 Lite四个品系。其中P40 Pro+有着惊人的100倍光学+电子变焦。在交互上，相机在左上角加入了一个缩放视框，以便用户在使用超长焦时，还能够看到取景框周边的事物，不至于迷失拍摄目标的方位。P40 Lite 5G版则是为不需要专业相机、但仍对5G有诉求的用户而设计的型号，在满足用户追求性价比的同时，保留对5G的兼容。
+P40系列共有P40 Pro+, P40 Pro, P40 Lite 5G 与P40 Lite四个型号。其中P40 Pro+有着惊人的100倍光学+电子变焦。在交互上，相机软件贴心地在左上角加入了一个缩放视框，以便用户在使用超长焦时，还能够看到取景框周边的事物，不至于迷失拍摄目标的方位。P40 Lite 5G版则是为不需要专业相机、但仍对5G有诉求的用户而设计的型号，在满足用户追求性价比的同时，保留对5G的兼容。此外，P40 Lite则是为用户提供了该系列最基础的硬件。负责人表示，在德国，很多像老年人用户并不追求过多的硬件配置，那么P40系列便从最基础到最专业为用户提供了全方面的选择，这样可能对于一个家庭来说，从老人到年轻人都能够在P40系列找到所钟爱的型号，并且一起享受Huawei Share 带来的便利生活。
 
 
 ![P40 pro+ 1.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/huawei%20pic/P40%20pro%2B%201.jpg)

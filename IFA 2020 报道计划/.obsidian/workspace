@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Shift Mobility现场素材.md",
+            "file": "Brands/Huawei.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Shift Mobility现场素材.md",
+            "file": "Brands/Huawei.md",
             "mode": "preview"
           }
         },
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shift Mobility现场素材.md"
+                "file": "Brands/Huawei.md"
               }
             }
           }
@@ -87,10 +87,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Brands/Huawei.md",
     "Shift Mobility现场素材.md",
     "IFA NEXT 现场素材.md",
     "Brands/BleuJour.md",
-    "Brands/Beurer.md",
-    "Brands/ataraina.md"
+    "Brands/Beurer.md"
   ]
 }
