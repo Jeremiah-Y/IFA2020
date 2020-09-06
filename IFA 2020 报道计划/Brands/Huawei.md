@@ -98,7 +98,7 @@ P40系列共有P40 Pro+, P40 Pro, P40 Lite 5G 与P40 Lite四个品系。其中P4
 [华为虚拟展台](https://consumer.huawei.com/en/campaign/together-2020/1-8-n/?utm_campaign=ifa&utm_medium=ownmedia&utm_source=ifa-virtual-space)
 
 
-_发布会时间：14:00 CEST, 3 September 2020_
+_[华为发布会时间](https://xtended.ifa-berlin.com/events/program)：14:00 CEST, 3 September 2020_
 
 ---
 
