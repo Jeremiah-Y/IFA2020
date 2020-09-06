@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Brands/tp-link.md",
+            "file": "Brands/Honor.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Brands/tp-link.md",
+            "file": "Brands/Honor.md",
             "mode": "preview"
           }
         },
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brands/tp-link.md"
+                "file": "Brands/Honor.md"
               }
             }
           }
@@ -87,9 +87,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Brands/Honor.md",
     "Brands/tp-link.md",
     "Brands/Huawei.md",
-    "Brands/Honor.md",
     "Brands/Harman & JBL.md",
     "Brands/Garmin.md"
   ]

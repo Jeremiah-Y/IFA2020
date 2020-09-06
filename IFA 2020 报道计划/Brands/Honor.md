@@ -12,6 +12,10 @@ _[<返回首页](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20
  ![honor magicbook pro 1.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/honor%20pic%20/honor%20magicbook%20pro%201.jpg)
  ![honor magicbook pro 2.jpg](https://github.com/Jeremiah-Y/IFA2020/blob/master/IFA%202020%20%E6%8A%A5%E9%81%93%E8%AE%A1%E5%88%92/img/9.5/honor%20pic%20/honor%20magicbook%20pro%202.jpg)
  
+![]()
+  
+  此次发布的MagicBook Pro为上一代的升级，配备有16.1寸屏幕，采用最新的7nm AMD 4600系列芯片，在内存、屏幕上均有升级，也沿用了荣耀一贯以来的三窄边框设计。还有一个创新设计亮点是Pop-up Camera。在位于最上方一排按键的中间，有一个专门的摄像头按键，按下去即可弹出隐藏的前置摄像头。这样的设计有两方面优势，一是可以非常有效的保护用户的隐私不被偷拍，二是为屏幕让出了空间，保证了更大的屏占比。
+  
   [MagicBook Pro介绍视频](https://pan.baidu.com/s/15d2q-k0-F7IL5HI7Eg9rVw)   密码:3gvf
  
  ---
