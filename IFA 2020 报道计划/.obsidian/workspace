@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Brands/Honor.md",
+            "file": "Shift Mobility现场素材.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Brands/Honor.md",
+            "file": "Shift Mobility现场素材.md",
             "mode": "preview"
           }
         },
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brands/Honor.md"
+                "file": "Shift Mobility现场素材.md"
               }
             }
           }
@@ -87,10 +87,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Shift Mobility现场素材.md",
     "Brands/Honor.md",
     "Brands/tp-link.md",
     "Brands/Huawei.md",
-    "Brands/Harman & JBL.md",
-    "Brands/Garmin.md"
+    "Brands/Harman & JBL.md"
   ]
 }
