@@ -2,7 +2,12 @@
 
 Shift Mobility现场素材
 ---
-[Shift Mobility环望视频](https://pan.baidu.com/s/1dOuvF_HQYBuyB8mKyYRXjg)   密码:2fol
+[Shift Mobility展馆视频](https://pan.baidu.com/s/1dOuvF_HQYBuyB8mKyYRXjg)   密码:2fol
+
+###### _包括展馆环望，以及车队游行视频。展馆内本来展位与观众就不多，每隔一段时间的车队游行，就像是一场强颜欢笑的自娱自乐，车灯闪烁，音乐回响在空洞的展厅里，无不透露着这一届IFA的怪异与无奈。_
+
+
+
 
 ---
 
