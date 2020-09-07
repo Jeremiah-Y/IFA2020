@@ -4,29 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1ee89938abedc5c6",
+        "id": "db360f684d6a2756",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Brands/Honor.md",
-            "mode": "source"
-          }
-        },
-        "group": "66bb4d89a9318ab6"
-      },
-      {
-        "id": "3a570190aaf880b4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Brands/Honor.md",
-            "mode": "preview"
-          }
-        },
-        "group": "66bb4d89a9318ab6"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -74,9 +58,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Brands/Honor.md"
-              }
+              "state": {}
             }
           }
         ]
